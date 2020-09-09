@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Django projects
 - 🌱 I’m currently learning Python/Django, TinyML and Arduino
 - 💬 Ask me about anything I could help out with!
